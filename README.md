@@ -14,12 +14,6 @@ Eager to marry creativity with technology, I've embarked on a journey into the w
 
 Explore my GitHub repository, where I document the early steps of my coding journey. From humble HTML pages to experimenting with CSS styles, each commit marks a stride towards bridging the gap between storytelling and code.
 
-## Professional Identity
-
-Beyond the world of coding, I continue to wear multiple hats as a **writer, editor, and author**. This exploration into web development is an exciting augmentation of my creative repertoire.
-
-Let's connect and share insights on the synergy between the written word and the digital canvas. Join me as I traverse the fascinating intersection of writing and web development!
-
 
 <!--
 **JimmyBlakemore/JimmyBlakemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
