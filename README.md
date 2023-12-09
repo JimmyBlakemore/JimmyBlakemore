@@ -8,7 +8,7 @@ Armed with a **BA in Creative Writing and English** from Southern New Hampshire 
 
 ## Venturing into Web Development
 
-Eager to marry creativity with technology, I've embarked on a journey into the world of **web development**. I'm currently immersing myself in the intricacies of HTML, CSS, and JavaScript, with a keen eye on the React framework for dynamic front-end development.
+Eager to marry creativity with technology, I've embarked on a journey into the world of **web development**. I'm currently immersing myself in the intricacies of HTML, CSS, and JavaScript, with a keen eye on the React framework and SCSS for dynamic front-end development.
 
 ## GitHub Playground
 
