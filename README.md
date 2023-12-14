@@ -14,8 +14,6 @@ Eager to marry creativity with technology, I've embarked on a journey into the w
 
 Explore my GitHub repository, where I document the early steps of my coding journey. From humble HTML pages to experimenting with CSS styles, each commit marks a stride towards bridging the gap between storytelling and code.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tYH48zExzVg?si=bRvhqhzy_VAVjDkA&amp;clip=Ugkxna4AZKdmZGlfQVtgy9S8dK4HZ-VPeWE2&amp;clipt=EMuOnAEYpb2cAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 <!--
 **JimmyBlakemore/JimmyBlakemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
